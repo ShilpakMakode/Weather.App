@@ -1,0 +1,22 @@
+/* 
+    cloud_pct.innerHTML =  response.cloud_pct 
+    temp.innerHTML =  response.temp 
+    feels_like.innerHTML =  response.feels_like 
+    humidity.innerHTML =  response.humidity 
+    min_temp.innerHTML =  response.min_temp 
+    max_temp.innerHTML =  response.max_temp 
+    wind_speed.innerHTML =  response.wind_speed 
+    wind_degrees.innerHTML =  response.wind_degrees
+    sunrise.innerHTML =  response.sunrise 
+    sunset.innerHTML =  response.sunset 
+
+    <h4 id="">Cloud Pct: <small id="cloud_pct"></small> </h4>
+    <h4 id="">Feels Like: <small id="feels_like"></small> </h4>
+    <h4 id="">Humidity: <small id="humidity"></small> </h4>
+    <h4 id="">Max Temp: <small id="max_temp"></small> </h4>
+    <h4 id="">Min Temp: <small id="min_temp"></small> </h4>
+    <h4 id="">Sunrise: <small id="sunrise"></small> </h4>
+    <h4 id="">Sunset: <small id="sunset"></small> </h4>
+    <h4 id="">Temp: <small id="temp"></small> </h4>
+    <h4 id="">Wind Degrees: <small id="wind_degrees"></small> </h4>
+    <h4 id="">Wind Speed: <small id="wind_speed"></small> </h4> */
