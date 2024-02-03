@@ -47,7 +47,7 @@ submit.addEventListener("click" , (e)=>{
 
 })
     
-getWeather("Aurangabad")
+getWeather("Nagpur")
 
 // cloud_pct
 // feels_like
